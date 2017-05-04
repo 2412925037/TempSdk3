@@ -1,0 +1,4 @@
+#FrxProperty
+#Tue Oct 13 09:55:41 CST 2015
+##全屏广告类型
+auto_init_sdk=false

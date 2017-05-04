@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TempSdkFace">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/runtime/TempSdkFace.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

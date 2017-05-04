@@ -1,0 +1,16 @@
+#FJProperty
+#Mon Aug 29 18:44:29 CST 2016
+game_name=熊出没之熊大快跑
+time=2016-08-29 18\:44\:29
+payment_version=v3.2.0.0普通版
+version_name=2.3.5
+tool_username=lulin
+version_code=58
+game_id=155
+plugin=1
+ct_sdk_version=121
+channel_id=0000843
+channel_company=奇虎360安卓推广渠道2
+channel_name=360手机开放平台
+package=com.joym.xiongdakuaipao360
+combine_type=360,CM130,CT,CU

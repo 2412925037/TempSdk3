@@ -1,0 +1,1 @@
+{"orgapk_permissions":["android.permission.RECORD_AUDIO","android.permission.READ_LOGS","android.permission.WAKE_LOCK"]}

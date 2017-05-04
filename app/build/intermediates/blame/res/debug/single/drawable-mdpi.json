@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\studio\\TempSdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\studio\\TempSdk\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\lee\\java-projects\\TempSdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\lee\\java-projects\\TempSdk\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
